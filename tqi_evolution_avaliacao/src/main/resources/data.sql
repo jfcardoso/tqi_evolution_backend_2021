@@ -1,0 +1,1 @@
+INSERT INTO CLIENTE(id, nome, email, cpf, rg, senha, endereco, bairro, cidade, estado, renda) VALUES (1,'Jefferson Cardoso', 'cliente@teste.com', '123.432.564-98','21.234.543-1', '$2a$10$AkZUhuE8edYTtGs9GoIbIOld89fXCzovGitfTX0kQTXuQJYMK1qeS','Rua C, nº 2', 'Centro', 'São Paulo', 'SP', 5450);
